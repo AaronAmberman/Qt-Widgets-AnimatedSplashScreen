@@ -2,7 +2,7 @@
 #define ANIMATEDSPLASHSCREEN_H
 
 #include <QSplashScreen>
-#include <QLabel>
+#include <QString>
 #include <QMovie>
 
 class AnimatedSplashScreen : public QSplashScreen
