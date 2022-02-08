@@ -4,6 +4,7 @@
 #include <QSplashScreen>
 #include <QString>
 #include <QMovie>
+#include <QPixmap>
 
 class AnimatedSplashScreen : public QSplashScreen
 {
